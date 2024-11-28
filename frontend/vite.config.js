@@ -7,3 +7,5 @@ export default defineConfig({
     port: 3000 // 或其他未被占用的端口
   }
 })
+
+export const API_URL = 'http://localhost:5000'
